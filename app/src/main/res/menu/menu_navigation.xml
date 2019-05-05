@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/hom"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+    <item
+        android:id="@+id/nav_activity"
+        android:title="Dialy Activity"
+        android:icon="@drawable/dialy"
+        />
+    <item
+        android:id="@+id/nav_gallery"
+        android:title="Gallery"
+        android:icon="@drawable/galeri"
+        />
+    <item
+        android:id="@+id/nav_musik"
+        android:title="Musik"
+        android:icon="@drawable/ic_music_note_black_24dp"
+        />
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profilw"
+        />
+
+</menu>
